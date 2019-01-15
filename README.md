@@ -21,7 +21,7 @@ Apis
         Categories
         Search
         View Images by Categories
-        Filter :- People,location,age,orientaion,pagination
+        Filter :- People,location,age,orientaion,pagination,Size,quality
         View detailed images
         Download preview image
         View Entire Shoot
@@ -32,7 +32,7 @@ Apis
         Categories
         Search
         View Video by Categories
-        Filter :- People,location,age,orientaion,pagination
+        Filter :- People,location,age,orientaion,pagination,quality
         View detailed Video
         Download preview clip
         View Entire Shoot
@@ -52,48 +52,20 @@ Apis
             Search Video
             Filter : ?
             Active / Inactive
+        
+        Search user 
+            all / subscribed / no Subscription
+        
+        Subscription plan
+            Create
+            View
+            Update
+            Active / Inactive
+            Check Plan
+
+
 
     Payment Gateway
 
     Don't Know
         Subscription plan
-       
-        
-
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
